@@ -4,7 +4,7 @@ import org.specs.Specification
 import net.pdiaz.flyapp.stores._
 import net.pdiaz.flyapp.app._
 import com.github.nscala_time.time.Imports._
-import unfiltered.spec.jetty.Served
+import unfiltered.spec.netty.Served
 import scala.language.postfixOps
 import org.eclipse.jetty.http.HttpStatus
 
